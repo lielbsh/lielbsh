@@ -43,6 +43,10 @@ Forward-thinking and quick learner with solid analytical and problem-solving ski
 <a href="https://www.mongodb.com/" target="_blank">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23039BE0.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
+&emsp;
+<a href="https://expo.dev/" target="_blank">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000000.svg?style=for-the-badge&logo=expo&logoColor=white">
+</a>
 
 ---
 
