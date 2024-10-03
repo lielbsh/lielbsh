@@ -1,4 +1,4 @@
-# Hi, I’m Liel Ben Shmuel 👋
+<h1> Hi, I’m Liel Ben Shmuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 ## About Me ✨
 I am a B.Sc. graduate in mathematics and geophysics, passionate about leveraging my analytical skills to solve complex problems. I love building projects that enhance understanding in the fields of science and technology.
