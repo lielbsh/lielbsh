@@ -8,9 +8,11 @@
 
 Forward-thinking and quick learner with solid analytical and problem-solving skills. Passionate about leveraging my analytical skills to solve complex problems. I love building projects that enhance understanding in the fields of science and technology.
 
+---
+
 <h2> 🛠️ Technologies & Tools </h2>
 
-### 👉 Programming languages & Frameworks
+### 👉 Programming Languages & Frameworks
 
 &emsp;
 <a href="https://www.javascript.com/" target="_blank">
@@ -42,11 +44,15 @@ Forward-thinking and quick learner with solid analytical and problem-solving ski
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23039BE0.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 
+---
+
 ## 🚀 Projects
 
 Here are a few projects I've worked on:
 
 - **[Eat Easy App](https://github.com/lielbsh/EatEasyExpoaApp)**: Discover recipes, save your favorites, and manage your grocery list effortlessly!
+
+---
 
 ## 📫 Get in Touch
 
@@ -55,4 +61,5 @@ Let's connect!
 <p align="center">
 <a href="mailto:liel1939@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/lielbsh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/liel-be
+<a href="https://www.linkedin.com/in/liel-benshmuel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
