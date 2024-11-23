@@ -56,7 +56,7 @@ Here are a few projects I've worked on:
 
 - **[Eat Easy App](https://github.com/lielbsh/EatEasyExpoaApp)**: Discover recipes, save your favorites, and manage your grocery list effortlessly!
 - **[Habit Tracker](https://github.com/lielbsh/HabitTrackerFront)**: Track your daily, weekly, and monthly habits easily.
-- **[PacMan Game](https://github.com/lielbsh/Pacman)**:  A Java-based PacMan game.
+- **[PacMan Game](https://github.com/lielbsh/Pacman)**:  A Java-based PacMan game, incorporating object-oriented programming (OOP).
 
 ---
 
