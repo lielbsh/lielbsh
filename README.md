@@ -1,5 +1,5 @@
-<h1 align="center" style="color:rgb(225, 142, 255);">
-  Hi, I’m <span >Liel Ben Shmuel</span> 
+<h1 align="center">
+  Hi, I’m Liel Ben Shmuel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -11,8 +11,7 @@
 
 <div align="center">
   <h2> About Me ✨</h2>
-  <h2 style="font-family: 'Roboto', sans-serif;"> About Me ✨</h2>
-  <p style="max-width: 800px; text-align: center; font-size: 1.2rem; font-family: 'Roboto', sans-serif;">
+  <p style="max-width: 800px; text-align: center; font-size: 1.2rem;">
     Forward-thinking and quick learner with solid analytical and problem-solving skills.  
     Passionate about leveraging my analytical skills to solve complex problems.  
     I love building projects that enhance understanding in the fields of science and technology.
