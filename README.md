@@ -78,7 +78,7 @@ Here are a few projects I've worked on:
 - **[doodle game](https://github.com/lielbsh/doodle-game)**: An online multiplayer game where two players take turns drawing and guessing each other's doodles!
 - **[PacMan Game](https://github.com/lielbsh/Pacman)**: A Java-based PacMan game, incorporating object-oriented programming (OOP).
 - **[Eat Easy App](https://github.com/lielbsh/EatEasyExpoaApp)**: Discover recipes, save your favorites, and manage your grocery list effortlessly!
-- **[Habit Tracker](https://github.com/lielbsh/HabitTrackerFront)**: Track your daily, weekly, and monthly habits easily.
+- **[Habit Tracker](https://github.com/lielbsh/Habit-Tracker)**: Track your daily, weekly, and monthly habits easily.
 
 ---
 
