@@ -44,7 +44,7 @@
 
 Here are some of the projects I've worked on:
 
-- 📨 **[Job Monitor App](https://github.com/lielbsh/JobMonitorApp)**  *(in progress)*  
+- 📨 **[Job Monitor App](https://github.com/lielbsh/JobMonitorApp)**  
   Smart email parser for tracking job application status. Classifies messages and extracts company, role, and links using regex and OpenAI.
 
 - 🎨 **[Doodle Game](https://github.com/lielbsh/doodle-game)**  
